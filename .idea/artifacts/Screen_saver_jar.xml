@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Screen_saver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Screen_saver_jar</output-path>
+    <root id="archive" name="Screen_saver.jar">
+      <element id="module-output" name="Screen_saver" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/dropbox-core-sdk-3.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-core-2.7.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
